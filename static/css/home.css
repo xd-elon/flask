@@ -1,0 +1,21 @@
+
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+
+  
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  color: red;
+}
+
+span {
+  color: blue;
+}
